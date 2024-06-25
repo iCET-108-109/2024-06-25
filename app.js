@@ -5,9 +5,13 @@
 
 // console.log(sum);
 
+//------------------------------
+
 // Assigment operations
 
 // = | += | -= | *= | /=
+
+//------------------------------
 
 // Comparison operations
 
@@ -23,6 +27,7 @@ console.log(isEqual);
 
 console.log(isThisEqual);
 
+//------------------------------
 // Logical operations
 
 // && | || | !
