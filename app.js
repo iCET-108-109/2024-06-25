@@ -82,18 +82,59 @@
 // console.log(age)
 
 
-const customer = {
-     name: "saman" ,
-     age: 20 ,
-     address: "gamapaha" , 
-     phone: "0712345678" , 
-     email: "saman.com"
-    }
+// const customer = {
+//      name: "saman" ,
+//      age: 20 ,
+//      address: "gamapaha" , 
+//      phone: "0712345678" , 
+//      email: "saman.com"
+// }
 
-console.log(name);
+// console.log(name);
 
-console.log(customer.name);
-console.log(customer.age);
-console.log(customer.address);
+// console.log(customer.name);
+// console.log(customer.age);
+// console.log(customer.address);
+
+// const numbers = [1,2,3,4,5,6,7,8,9];
+
+
+
+// for(let i = 0; i < numbers.length; i++){
+//     console.log(numbers[i]);
+// }
+
+// const customers = [
+//     {
+//         name: "saman" ,
+//         age: 20 ,
+//         address: "gamapaha" , 
+//         phone: "0712345678" , 
+//         email: "saman.com"
+//     },
+//     {
+//         name: "kamal" ,
+//         age: 20 ,
+//         address: "gamapaha" , 
+//         phone: "0712345678" , 
+//         email: "kamal.com"
+//     },
+//     {
+//         name: "kamal" ,
+//         age: 20 ,
+//         address: "gamapaha" , 
+//         phone: "0712345678" , 
+//         email: "kamal.com"
+//     }
+// ];
+
+
+
+// console.log(customers[1].name);
+
+// for(let i = 0; i < customers.length; i++){
+//     console.log(customers[i].name);
+// }
+
 
 
