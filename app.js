@@ -82,3 +82,18 @@
 // console.log(age)
 
 
+const customer = {
+     name: "saman" ,
+     age: 20 ,
+     address: "gamapaha" , 
+     phone: "0712345678" , 
+     email: "saman.com"
+    }
+
+console.log(name);
+
+console.log(customer.name);
+console.log(customer.age);
+console.log(customer.address);
+
+
