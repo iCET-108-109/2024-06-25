@@ -19,13 +19,13 @@
 
 // ===
 
-let isEqual = (5 == '5');
+// let isEqual = (5 == '5');
 
-let isThisEqual = (5 === '5');
+// let isThisEqual = (5 === '5');
 
-console.log(isEqual);
+// console.log(isEqual);
 
-console.log(isThisEqual);
+// console.log(isThisEqual);
 
 //------------------------------
 // Logical operations
@@ -77,5 +77,8 @@ console.log(isThisEqual);
 
 // console.log(age);
 
+// let age = 30
+
+// console.log(age)
 
 
